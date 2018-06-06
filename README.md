@@ -18,7 +18,7 @@ Node allows you to develop a web server on your machine.
 
 ## Install the Atom text editor and plugins
 
-1. You will be using a text editor called Atom to write your code. You can download and install it from https://atom.io/
+1. You will be using a text editor called Atom to write your code. You can download and install it from https://atom.io/ If you have a Windows 10 operating system, we recommend you use version 1.28 portable.
 2. Open the source files you downloaded in Atom using the menu "File" > "Add Project Folder".
 3. Find the folder containing the files you need and open it.
 4. Install the "script" package.
